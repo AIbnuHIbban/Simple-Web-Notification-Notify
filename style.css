@@ -1,0 +1,18 @@
+button{
+    outline: none;
+    padding: 10px;
+    border: 0px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+}
+button:hover{
+    opacity: 0.6;
+}
+#perm{
+    background: #ef564b;
+}
+#push{
+    background: #2196F3;
+}
